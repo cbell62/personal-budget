@@ -4,4 +4,4 @@
 /usr/share/nginx/html**
 
 - **Personal Budget Application Assignment for ITIS 4166 (Network Based App Development)**
-
+- **Term Taken: Fall 2020**
